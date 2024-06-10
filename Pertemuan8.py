@@ -1,1 +1,21 @@
-https://replit.com/@fadlygensfa/Meet8py?mobileBridge=1&hideBottomBar=1&forceTheme=replitLight&mobileWebview=1&supportsUpsellBridge=1#main.py
+
+Percabangan
+
+nama = input("silahkan masukkan nama : ")
+# IF kondisi : aksi
+# if nama == "edy" : print ("Dosen ganteng")
+# print("nama yang dimasukkan tidak ganteng")
+
+
+#if nama == "edy" :
+ #   print("Dosen ganteng")
+  #  print("Ganteng Banget")
+   # print(f"Ganteng Banget {nama}")
+#print("nama yang dimasukkan tidak ganteng")
+
+
+if nama == "edy" :
+    print("Dosen ganteng")
+    print("Ganteng Banget")
+else :
+    print("nama yang dimasukkan salah")
