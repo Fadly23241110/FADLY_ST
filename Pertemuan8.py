@@ -1,5 +1,5 @@
+# percabangan
 
-Percabangan
 
 nama = input("silahkan masukkan nama : ")
 # IF kondisi : aksi
