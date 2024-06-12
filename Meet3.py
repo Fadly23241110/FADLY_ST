@@ -12,5 +12,5 @@ print ("Nilai bil_float =", bil_float , "jenis Tipe Datanya =", type(bil_float))
 
 
 #Tipe Data String (kumpulan karakter)
-bil_string = " my name is rezka"
+bil_string = " my name is FADLY"
 print ("Nilai bil_string =", bil_string , "jenis Tipe Datanya =", type(bil_string))
